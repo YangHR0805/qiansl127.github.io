@@ -4,14 +4,13 @@ title: About
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}assets/profile-placeholder.gif" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}assets/profile.jpg" title="Profile Picture" class="profile">
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Hello! So glad you can link this site and view this page introducing myself.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I'm currently a **master candidate**(will graduate in March, 2017) at **Shanghai Jiao Tong University** major in Software Engineering. Quite interesting in **big data technology**, **mobile and Internet development** now.
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I'm familiar with OS, networking, OO programing(C++, Java). Here's my GitHub Page: [github.com/qiansl127](https://github.com/qiansl127), and my email link: [qiansl127@gmail.com](mailto://qiansl127@gmail.com).
 
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+Let past be the past, keep studying, keep striving, I treasure this as the meaning of life always.
+
