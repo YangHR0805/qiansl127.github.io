@@ -5,11 +5,11 @@ gems:
 
 # Site settings
 title: "Neo's Site"
-subtitle: "Let past be the past"
+subtitle: "Striving && Selecting"
 email: qiansl127@gmail.com
 name: Neo Qian
 description: > 
-  Let past be the past.
+  "Striving && Selecting."
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://qiansl127.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"

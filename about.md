@@ -12,5 +12,5 @@ I'm currently a **master candidate**(will graduate in March, 2017) at **Shanghai
 
 I'm familiar with OS, networking, OO programing(C++, Java). Here's my GitHub Page: [github.com/qiansl127](https://github.com/qiansl127), and my email link: [qiansl127@gmail.com](mailto://qiansl127@gmail.com).
 
-Let past be the past, keep studying, keep striving, I treasure this as the meaning of life always.
+Keep striving, keep selecting ,I treasure this as the meaning of life always.
 
