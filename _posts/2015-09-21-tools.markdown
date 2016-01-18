@@ -2,7 +2,7 @@
 layout: post
 title:  "Git Tips"
 date:   2015-09-21 14:27:00
-author: Neo Qian
+author: Shilei Qian
 categories: tools 
 ---
 

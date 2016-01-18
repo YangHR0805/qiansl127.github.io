@@ -4,10 +4,10 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: "Neo's Site"
+title: "Shilei's Site"
 subtitle: "Striving && Selecting"
 email: qiansl127@gmail.com
-name: Neo Qian
+name: Shilei Qian
 description: > 
   "Striving && Selecting."
 baseurl: "/" # the subpath of your site, e.g. /blog/
