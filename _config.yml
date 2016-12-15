@@ -4,12 +4,12 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: "Shilei's Site"
-subtitle: "Striving && Selecting"
+title: "Site by Shilei"
+subtitle: "Enjoy Every Moment"
 email: qiansl127@gmail.com
 name: Shilei Qian
 description: > 
-  "Striving && Selecting."
+  "Enjoy every moment in your life, no matter if you get or you lose."
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://qiansl127.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
