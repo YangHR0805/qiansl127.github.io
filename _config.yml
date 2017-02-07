@@ -4,10 +4,10 @@ gems:
   - jekyll-sitemap
 
 # Site settings
-title: "Site by Shilei"
+title: "Site by Frank"
 subtitle: "Enjoy Every Moment"
 email: qiansl127@gmail.com
-name: Shilei Qian
+name: Frank Qian
 description: > 
   "Enjoy every moment in your life, no matter if you get or you lose."
 baseurl: "/" # the subpath of your site, e.g. /blog/
@@ -91,8 +91,8 @@ social:
 
   - name: LinkedIn
     icon: linkedin
-    username: Shilei Qian
-    url: https://cn.linkedin.com/pub/shilei-qian/8a/610/a16
+    username: Shilei(Frank) Qian
+    url: https://www.linkedin.com/in/shilei-frank-qian-a166108a
     desc: Connect with me on LinkedIn
     share_url: //www.linkedin.com/shareArticle
     share_title: ?mini=true
