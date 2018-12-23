@@ -8,8 +8,9 @@ categories: tools
 
 This is a post collecting some tips for git.
 
-new local branch from remote: `git checkout -b test origin/test`
-
-checkout from tag to a new branch: `git checkout -b v1.3.1 v1.3.1`
-
+new local branch from remote: `git checkout -b test origin/test`  
+checkout from tag to a new branch: `git checkout -b v1.3.1 v1.3.1`  
 remove a local trace for a remote branch: `git branch -d -r origin/test`
+
+interactive rebase from HEAD to HEAD~: `git rebase -i HEAD~2`  
+merge branch a into b, reset back to a from the merge commit: `git reset --hard HEAD^2`
