@@ -10,7 +10,7 @@ email: qiansl127@gmail.com
 name: Frank Qian
 description: > 
   "Enjoy every moment in your life, no matter if you get or you lose."
-baseurl: "/" # the subpath of your site, e.g. /blog/
+baseurl: "http://qiansl127.github.io/"
 url: "http://qiansl127.github.io" # the base hostname & protocol for your site
 cover: "assets/header_image.jpg"
 logo: "assets/logo.png"
