@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Shell command to get top 10 frequently used commands"
+date:   2018-12-24 13:35:00
+author: Frank Qian
+categories: language
+---
+
+
+```bash
+history | awk '{print $2}' | sort | uniq -c | sort -k1nr | head
+```
+
+- `uniq -c` remove duplicated lines, and add count at the beginning of that line
+- `sort -k1nr` start a key at position 1, numeric-sort, reverse
